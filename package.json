@@ -4,14 +4,17 @@
   "description": "examples, exercises and guides for the Agile Development module at HYF Belgium",
   "scripts": {
     "format": "prettier --write ./",
+    "format:check": "prettier --check ./",
     "spell-check": "cspell  './**'",
-    "lint:md": "markdownlint --ignore node_modules --config ./.markdownlint.jsonc --fix ./ ",
-    "lint:css": "stylelint --fix './**/*.css' ",
+    "lint:ls": "ls-lint",
+    "lint:md": "markdownlint --ignore node_modules --config ./.markdownlint.jsonc ./ ",
+    "lint:css": "stylelint './**/*.css' ",
     "validate:html": "html-validate ./"
   },
   "author": "HYF Belgium",
   "license": "MIT",
   "devDependencies": {
+    "@ls-lint/ls-lint": "^1.11.0",
     "cspell": "^5.9.0",
     "html-validate": "^5.2.0",
     "markdownlint-cli": "^0.28.1",
