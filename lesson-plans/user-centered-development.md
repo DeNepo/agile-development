@@ -57,6 +57,9 @@ Begin the [Loruki Rebuild](../deliverables/loruki-rebuild.md) deliverable.
 
 ## After Class
 
+Study the `/development-strategies` folder in
+[/2-writing-plans](../2-writing-plans)
+
 In your groups, try to complete the
 [Loruki Rebuild](../deliverables/loruki-rebuild.md) deliverable. If you are not
 able to complete everything that's ok! You should still complete a
