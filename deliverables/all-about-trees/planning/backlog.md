@@ -13,7 +13,7 @@
   - As a user I can learn about trees
     - [ ] _there is a main text in the page with helpful info and links_
   - As a user I can learn even more about trees
-  - [ ] _there is an aside with links for further reading_
+    - [ ] _there is an aside with links for further reading_
 
 ## Should Haves
 
@@ -32,4 +32,4 @@
 
 - **Home Page**
   - as a user will smile (or roll their eyes) when they read our page
-  - [ ] _there are some silly animations_
+    - [ ] _there are some silly animations_

@@ -6,67 +6,76 @@ A simple little website about trees.
 
 ---
 
-> all issues in this section have a `for: site title` label
+> all issues for this user story have a `for: site title` label
+>
+> this section can be copy-pasted as a checklist in the issue
+>
+> you might add an `html` and `css` label to this issue
 
-## Site Title
+## Site Title (_issue title_)
 
 > "as a user I can read the title of the page"
 
 The site needs a clear title that's easy to read at the top of the page.
 
-### Site Title: Interface
+### Site Title: HTML
 
-> all the issues under this header have a `type: interface` label
+- [ ] Header with the web site's title
 
-- Header with centered title
-  - (_this list can be copy-pasted as a checklist in the issue_)
-  - (_you might add an `html` and `css` label to this issue_)
-  - [ ] HTML: a page header with the title
-  - [ ] CSS: styling to center the title
+### Site Title: CSS
+
+- [ ] styling to center the title
 
 ---
 
-## Introduction
+## Introduction (_issue title_)
 
 > "As a user I can read an introduction to this project"
 
 It should be clear what this project is for and what someone can expect from the
 web page.
 
-### Introduction: Interface
+### Introduction: HTML
 
-- A body of text and links
-  - [ ] HTML: a section with some general information about the project
-  - [ ] CSS: styling to make the text look fancy
+- [ ] a section with some general information about the project and helpful
+      links
+
+### Introduction: CSS
+
+- [ ] styling to make the text look fancy
 
 ---
 
-## Main Info
+## Main Info (_issue title_)
 
 > "As a user I can learn about trees"
 
 There is a main text in the page with helpful info and links.
 
-### Main Info: Interface
+### Main Info: HTML
 
-- Main text (_one issue_)
-  - [ ] HTML: a section with some general information about the project
-  - [ ] CSS: style the text
-- Extra Info Links (_one issue_)
-  - [ ] HTML: a list of links
-  - [ ] CSS: styling to format the list
+- [ ] Main text: a section with some general information about the project
+- [ ] Extra Info Links: a list of links
+
+### Main Info: CSS
+
+- [ ] style the text
+- [ ] styling to format the list
 
 ---
 
-## Extra Info
+## Extra Info (_issue title_)
 
 > "As a user I can learn even more about trees"
 
 Some more links for students who want to go beyond the basics.
 
-### Extra Info: Interface
+### Extra Info: HTML
 
-- An aside with links for digging deeper.
-  - [ ] HTML: some helpful text and a reference link
-  - [ ] CSS: styling to position the aside
-  - [ ] CSS: styling to style the text
+- [ ] An aside with links for digging deeper, some helpful text and a reference
+      link
+
+### Extra Info: CSS
+
+- [ ] styling to position the aside
+- [ ] styling to style the text
