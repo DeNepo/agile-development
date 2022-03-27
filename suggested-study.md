@@ -65,6 +65,7 @@
 - [How to do code reviews like a human](https://www.youtube.com/watch?v=0t4_MfHgb_A)
 - [The science of code reviews](https://www.youtube.com/watch?v=EyL7mqwpZhk)
 - [Code review on GitHub](https://www.youtube.com/watch?v=HW0RPaJqm4g)
+- [Solving merge conflicts](https://www.youtube.com/watch?v=xNVM5UxlFSA)
 
 ## HTML & CSS
 
