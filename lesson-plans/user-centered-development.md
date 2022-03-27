@@ -7,7 +7,6 @@ your development process.
 
 - Learn about User Personas
   - [interaction-design.org](https://www.youtube.com/watch?v=XnG4c4gXaQY)
-  - [Robert Smith](https://www.youtube.com/watch?v=vZ578SqL1oA)
   - [Abnux](https://www.youtube.com/watch?v=GaEdg9zTdB8)
 - Read about User Stories and Acceptance Criteria in
   [Suggested Study](../suggested-study.md)
