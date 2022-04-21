@@ -27,6 +27,7 @@ Ignore this! You aren't trying to recreate the exact code (which is actually
 
 When writing your code pay special attention to:
 
+- Not using Bootstrap, SASS, or anything other than plain CSS.
 - [HTML/CSS Good Practice](https://www.smashingmagazine.com/2008/11/12-principles-for-keeping-your-code-clean/)
 - Using HTML5 Semantic Element
 - Responsive Design
@@ -40,6 +41,7 @@ the project board, your issue should have:
 ```md
 - [ ] [repo](https://github.com/_/_) (with a complete README)
 - [ ] [live demo](https://_.github.io/_)
+- [ ] We used only plain CSS
 - [/planning](https://github.com/_/_/tree/master/planning)
   - [ ] communication plan
   - [ ] constraints
