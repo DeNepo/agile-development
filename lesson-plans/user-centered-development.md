@@ -7,7 +7,6 @@ your development process.
 
 - Learn about User Personas
   - [interaction-design.org](https://www.youtube.com/watch?v=XnG4c4gXaQY)
-  - [Robert Smith](https://www.youtube.com/watch?v=vZ578SqL1oA)
   - [Abnux](https://www.youtube.com/watch?v=GaEdg9zTdB8)
 - Read about User Stories and Acceptance Criteria in
   [Suggested Study](../suggested-study.md)
@@ -20,14 +19,14 @@ Begin the [Loruki Rebuild](../deliverables/loruki-rebuild.md) deliverable.
 
 - _20 min_: Q/A and review
 - _20 min_: Form random groups and study the `/development-strategy` examples
-  from Chapter 2 together:
+  from Chapter 2 together [here](https://github.com/HackYourFutureBelgium/agile-development/tree/master/2-writing-plans/development-strategies/examples/portfolio-card):
   - How do you write a _User Persona_?
   - How do you write a _User Story_?
   - How do you _Prioritize a Backlog_?
   - How do you write a _Development Strategy_?
   - How do you _follow_ a Development Strategy?
 - _60 min_: In your groups try to complete one of the `/development-strategy`
-  exercises.
+  exercises. [here](https://github.com/HackYourFutureBelgium/agile-development/tree/master/2-writing-plans/development-strategies/exercises)
 - _20 min_: Get back together as a class:
   - each group will quickly present what they worked on
   - full-class discussion

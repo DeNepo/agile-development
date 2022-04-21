@@ -65,13 +65,16 @@
 - [How to do code reviews like a human](https://www.youtube.com/watch?v=0t4_MfHgb_A)
 - [The science of code reviews](https://www.youtube.com/watch?v=EyL7mqwpZhk)
 - [Code review on GitHub](https://www.youtube.com/watch?v=HW0RPaJqm4g)
+- [Solving merge conflicts](https://www.youtube.com/watch?v=xNVM5UxlFSA)
 
 ## HTML & CSS
 
 > practice using [Responsively](https://responsively.app)
 
-- FCC, Responsive Web Design: [exercises](https://www.freecodecamp.org/learn),
+- FreeCodeCamp, Responsive Web Design: [exercises](https://www.freecodecamp.org/learn),
   [video](https://www.youtube.com/watch?v=srvUrASNj0s)
+- [Traversy - HTML Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=UB1O30fR-EE)
+- [Traversy - CSS Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=yfoY53QXEnI)
 - [mmtuts: HTML & CSS](https://www.youtube.com/watch?v=TKYsuU86-DQ&list=PL0eyrZgxdwhwNC5ppZo_dYGVjerQY3xYU)
 - [CSS Games](https://study.hackyourfuture.be/html-css/css#games-to-learn-css)
 - [html.com](https://html.com)
