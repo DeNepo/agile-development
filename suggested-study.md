@@ -86,6 +86,7 @@
 - [html-css-git-exercises](https://github.com/hackyourfuturebelgium/html-css-git-exercises)
 - [HTML-CSS-Practice-Problems](https://github.com/DevMountain/HTML-CSS-Practice-Problems)
 - [css-exercises](https://github.com/dangodev/css-exercises)
+- [Interneting is hard - HTML & CSS](https://github.com/dangodev/css-exercises](https://www.internetingishard.com/)
 
 ## VSCode for HTML & CSS
 
