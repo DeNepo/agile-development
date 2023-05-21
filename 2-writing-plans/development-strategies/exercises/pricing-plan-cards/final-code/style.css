@@ -9,37 +9,30 @@
 body {
   padding: 5% 0;
   height: 95vh;
-  font-family: "Rubik", sans-serif;
+  font-family: Rubik, sans-serif;
   background-color: #eee;
   color: #242c44;
 }
 
 .container {
   display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
+  flex-flow: row wrap;
   justify-content: space-evenly;
   gap: 20px;
   position: relative;
   bottom: 10%;
 }
 
-h3 {
-  font-size: 1.8rem;
-  font-weight: 650;
-}
-
 p {
   font-size: 0.9rem;
   font-weight: 350;
+  margin-bottom: 20px;
 }
 
 h3 {
+  font-size: 1.8rem;
+  font-weight: 650;
   margin-bottom: 30px;
-}
-
-p {
-  margin-bottom: 20px;
 }
 
 h2 {

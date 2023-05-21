@@ -305,7 +305,7 @@ project naming convention
 
 This script will
 [validate](https://webplatform.github.io/docs/guides/html_validation/) the HTML
-in this repsitory using
+in this repository using
 [html-validate](https://gitlab.com/html-validate/html-validate).
 
 </details>

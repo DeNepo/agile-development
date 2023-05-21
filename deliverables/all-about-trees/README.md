@@ -8,9 +8,9 @@ group using the Planning and Collaborating workflows. Many of the planning
 documents are already started for you in this folder. Your group will use them
 as a starting point to plan your own rebuild of the site.
 
-You _will not_ be planning a new webiste, and you _will not_ be trying to build
+You _will not_ be planning a new website, and you _will not_ be trying to build
 the most beautiful page possible. Your main focus should be the steps in
-[Planning and Collaborating](https://home.hackyourfuture.be/students/planning-and-collaborating),
+[Planning and Collaborating](https://github.com/hackyourfuturebelgium/planning-and-collaborating),
 Git/GitHub workflows, and code review using a checklist.
 
 Later you’ll get the chance to be creative and plan full websites from scratch.

@@ -21,7 +21,7 @@
 }
 
 .bottom-divider {
-  border-style: none none solid none;
+  border-style: none none solid;
 }
 
 .spaced-items {
@@ -42,7 +42,7 @@
 }
 
 .top-divider {
-  border-style: solid none none none;
+  border-style: solid none none;
 }
 
 /* https://www.developerdrive.com/8-simple-css-hover-effects/ */
