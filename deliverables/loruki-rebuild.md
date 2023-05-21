@@ -61,5 +61,5 @@ the project board, your issue should have:
 - [ ] [project board](https://github.com/_/_/projects/1)
 ```
 
-> PS. In the tutorial, Mr. Traversy deployes his website using Netlify. Your
+> PS. In the tutorial, Mr. Traversy deploys his website using Netlify. Your
 > group should use GitHub Pages instead.
