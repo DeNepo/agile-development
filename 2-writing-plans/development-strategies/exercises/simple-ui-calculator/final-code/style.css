@@ -11,7 +11,7 @@
 body {
   height: 65vh;
   padding: 4% 7%;
-  font-family: "Oxygen", sans-serif;
+  font-family: Oxygen, sans-serif;
   width: 100%;
   background-color: #2c3c40;
   display: flex;
@@ -23,7 +23,7 @@ header {
   height: 450px;
   width: 100%;
   border-radius: 15px;
-  box-shadow: -2px 1px 24px -1px rgba(0, 0, 11, 1);
+  box-shadow: -2px 1px 24px -1px rgb(0 0 11 / 100%);
 }
 
 .calculator-container {
@@ -44,14 +44,13 @@ header {
   margin-left: 32px;
   margin-bottom: 10px;
   background-color: #fff;
-  box-shadow: -2px 5px 19px -4px rgba(255, 255, 255, 1);
+  box-shadow: -2px 5px 19px -4px rgb(255 255 255 / 100%);
   outline: none;
 }
 
 input {
   flex-wrap: wrap;
   width: 110px;
-  height: 300px;
   padding: 10px 35px;
   height: auto;
   cursor: pointer;
@@ -62,7 +61,7 @@ input {
   border-radius: 8px;
   font-size: 1.2rem;
   font-weight: 600;
-  box-shadow: -2px 5px 23px -4px rgba(0, 0, 0, 0.75);
+  box-shadow: -2px 5px 23px -4px rgb(0 0 0 / 75%);
 }
 
 .calc-item-5 {
@@ -96,7 +95,7 @@ input {
 
 input:active {
   transform: scale(1.1);
-  box-shadow: -2px 5px 23px -4px rgba(19, 19, 19, 0.75);
+  box-shadow: -2px 5px 23px -4px rgb(19 19 19 / 75%);
 }
 
 /* https://github.com/WaiYanMoeMyintt/Basic-HTML-CSS-Projects */

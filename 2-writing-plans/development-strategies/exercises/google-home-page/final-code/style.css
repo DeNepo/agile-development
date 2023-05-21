@@ -9,7 +9,7 @@
 }
 
 body {
-  font-family: "Roboto", sans-serif;
+  font-family: Roboto, sans-serif;
   height: 100vh;
 }
 
@@ -50,7 +50,6 @@ ul li {
 }
 
 img {
-  position: relative;
   bottom: 8px;
   width: 38px;
   height: 38px;
@@ -70,7 +69,7 @@ header {
 }
 
 .o {
-  color: rgb(234, 67, 53);
+  color: rgb(234 67 53);
 }
 
 .o2 {
@@ -86,13 +85,13 @@ header {
 }
 
 .e {
-  color: rgb(234, 67, 53);
+  color: rgb(234 67 53);
 }
 
 input {
   padding: 15px 200px;
   outline: none;
-  border: 1px solid rgb(238, 236, 236);
+  border: 1px solid rgb(238 236 236);
   border-radius: 25px;
   position: relative;
   top: 25px;
