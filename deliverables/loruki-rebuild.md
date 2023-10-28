@@ -1,7 +1,7 @@
 # Loruki Rebuild
 
 > - _Writing Plans_
-> - [HTML & CSS template repo](https://github.com/HackYourFutureBelgium/template-html-css)
+> - [HTML & CSS template repo](https://github.com/DeNepo/template-html-css)
 
 This project's goal is to work as a group studying and reconstructing the
 [**loruki-website** tutorial](https://github.com/bradtraversy/loruki-website)
@@ -17,7 +17,7 @@ that your group had good discipline with branching and code review.
 Here's a good way to approach the group project:
 
 1. Before watching the tutorial video complete these steps of
-   [planning-and-collaborating](https://github.com/hackyourfuturebelgium/planning-and-collaborating)
+   [planning-and-collaborating](https://github.com/DeNepo/planning-and-collaborating)
    as a group:
    - **Repo Setup**, **Project Definition**, **Constraints**, **Communication
      Plan**
@@ -50,7 +50,7 @@ the project board, your issue should have:
 ```md
 - [ ] [repo](https://github.com/_/_) (with a complete README)
 - [ ] [live demo](https://_.github.io/_) (GitHub Pages, not Netlify)
-- [/planning](https://github.com/_/_/tree/master/planning)
+- [/planning](https://github.com/_/_/tree/main/planning)
   - [ ] constraints
   - [ ] communication plan
   - [ ] user personas

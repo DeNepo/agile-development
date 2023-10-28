@@ -2,7 +2,7 @@
 
 Explore how to develop HTML/CSS websites as a group. You will go through the
 steps in
-[planning-and-collaborating](https://github.com/hackyourfuturebelgium/planning-and-collaborating)
+[planning-and-collaborating](https://github.com/DeNepo/planning-and-collaborating)
 to prepare for the _All About Trees_ project.
 
 ## Before Class
@@ -17,7 +17,7 @@ to prepare for the _All About Trees_ project.
   - During this module, your group's retrospective will be the _most important_
     deliverable!
 - Take a first look through the steps in
-  [planning-and-collaborating](https://github.com/hackyourfuturebelgium/planning-and-collaborating)
+  [planning-and-collaborating](https://github.com/DeNepo/planning-and-collaborating)
 
 ## During Class
 
@@ -27,7 +27,7 @@ to prepare for the _All About Trees_ project.
 - _45 min_: Discuss agile development & retrospectives as a class
   - Ask many questions to learn from your coaches' experience!
 - _30 min_: Create random small groups and read through
-  [planning-and-collaborating](https://github.com/hackyourfuturebelgium/planning-and-collaborating)
+  [planning-and-collaborating](https://github.com/DeNepo/planning-and-collaborating)
 - _25 min_: all together:
   - Each group presents what was most unexpected for them
   - Q/A with the coaches

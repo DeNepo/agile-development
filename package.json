@@ -1,7 +1,7 @@
 {
   "name": "agile-development",
   "version": "1.0.0",
-  "description": "examples, exercises and guides for the Agile Development module at HYF Belgium",
+  "description": "examples, exercises and guides for the Agile Development module at DeNepo",
   "scripts": {
     "format": "prettier --write ./",
     "format:check": "prettier --check ./",
@@ -11,7 +11,7 @@
     "lint:css": "stylelint \"./**/*.css\" ",
     "validate:html": "html-validate ./"
   },
-  "author": "HYF Belgium",
+  "author": "DeNepo",
   "license": "MIT",
   "devDependencies": {
     "@ls-lint/ls-lint": "^2.0.0",
