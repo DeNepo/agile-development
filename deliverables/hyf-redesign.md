@@ -1,7 +1,7 @@
 # HYF Redesign
 
 > - _Adapting Plans_
-> - [HTML & CSS template repo](https://github.com/HackYourFutureBelgium/template-html-css)
+> - [HTML & CSS template repo](https://github.com/DeNepo/template-html-css)
 
 Can your group write a better home page than we have? Starting with nothing but
 boilerplate code you'll build your own home page for
@@ -42,7 +42,7 @@ the project board, your issue should have:
 - [ ] [repo](https://github.com/_/_) (with a complete README)
 - [ ] [live demo](https://_.github.io/_)
 - [ ] We used only plain CSS
-- [/planning](https://github.com/_/_/tree/master/planning)
+- [/planning](https://github.com/_/_/tree/main/planning)
   - [ ] communication plan
   - [ ] constraints
   - [ ] backlog

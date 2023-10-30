@@ -1,16 +1,18 @@
 # All About Trees
 
 > - _Following Plans_
-> - [HTML & CSS template repository](https://github.com/HackYourFutureBelgium/template-html-css)
+> - [HTML & CSS template repository](https://github.com/DeNepo/template-html-css)
 
-This project is to rebuild the _All About Trees_ site in a new repository as a
-group using the Planning and Collaborating workflows. Many of the planning
-documents are already started for you in this folder. Your group will use them
-as a starting point to plan your own rebuild of the site.
+This project is to rebuild the
+[_All About Trees_](https://denepo.js.org/agile-development/deliverables/all-about-trees/index.html)
+site in a new repository as a group using the Planning and Collaborating
+workflows. Many of the planning documents are already started for you in this
+folder. Your group will use them as a starting point to plan your own rebuild of
+the site.
 
-You _will not_ be planning a new webiste, and you _will not_ be trying to build
+You _will not_ be planning a new website, and you _will not_ be trying to build
 the most beautiful page possible. Your main focus should be the steps in
-[Planning and Collaborating](https://home.hackyourfuture.be/students/planning-and-collaborating),
+[Planning and Collaborating](https://github.com/DeNepo/planning-and-collaborating),
 Git/GitHub workflows, and code review using a checklist.
 
 Later you’ll get the chance to be creative and plan full websites from scratch.
@@ -23,7 +25,7 @@ more free to be creative in the future.
 ```markdown
 - [ ] [repo](https://github.com/_/_) (with a complete README)
 - [ ] [live demo](https://_.github.io/_)
-- [/planning](https://github.com/_/_/tree/master/planning)
+- [/planning](https://github.com/_/_/tree/main/planning)
   - [ ] constraints
   - [ ] communication plan
   - [ ] user personas

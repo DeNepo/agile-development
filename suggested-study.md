@@ -71,7 +71,8 @@
 
 > practice using [Responsively](https://responsively.app)
 
-- FreeCodeCamp, Responsive Web Design: [exercises](https://www.freecodecamp.org/learn),
+- FreeCodeCamp, Responsive Web Design:
+  [exercises](https://www.freecodecamp.org/learn),
   [video](https://www.youtube.com/watch?v=srvUrASNj0s)
 - [Traversy - HTML Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=UB1O30fR-EE)
 - [Traversy - CSS Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=yfoY53QXEnI)
@@ -86,6 +87,7 @@
 - [html-css-git-exercises](https://github.com/hackyourfuturebelgium/html-css-git-exercises)
 - [HTML-CSS-Practice-Problems](https://github.com/DevMountain/HTML-CSS-Practice-Problems)
 - [css-exercises](https://github.com/dangodev/css-exercises)
+- [Interneting is hard - HTML & CSS](https://internetingishard.netlify.app/html-and-css/)
 
 ## VSCode for HTML & CSS
 

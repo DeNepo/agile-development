@@ -56,7 +56,7 @@ body {
   font-size: 1rem;
   margin-top: 20px;
   color: #eee;
-  word-break: all;
+  word-break: break-all;
   letter-spacing: 1px;
 }
 

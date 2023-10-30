@@ -21,10 +21,10 @@ header {
   display: block;
   width: 50%;
   height: 600px;
-  background-color: rgb(255, 255, 255);
+  background-color: rgb(255 255 255);
   padding: 0 20px;
   border-radius: 10px;
-  box-shadow: -2px 41px 46px -13px rgba(122, 122, 122, 0.75);
+  box-shadow: -2px 41px 46px -13px rgb(122 122 122 / 75%);
   position: relative;
   bottom: 30px;
 }
@@ -49,7 +49,7 @@ header .input-form {
   font-size: 1.1rem;
   color: #333;
   font-weight: 650;
-  border: 1px solid rgb(214, 214, 214);
+  border: 1px solid rgb(214 214 214);
   width: 60%;
   padding: 10px 35px;
   text-align: center;
@@ -82,7 +82,7 @@ header p {
 
 p::before {
   content: " slkdfk";
-  background-color: rgb(197, 197, 197);
+  background-color: rgb(197 197 197);
   width: 70%;
   height: 2px;
   color: #fff;
@@ -121,7 +121,7 @@ button {
   font-weight: 500;
   padding: 8px 55px;
   outline: none;
-  border: 2px solid rgb(122, 122, 247);
+  border: 2px solid rgb(122 122 247);
 
   /* border: 2px solid #b4f2f3; */
 }
@@ -130,7 +130,7 @@ button {
   display: block;
   font-size: 1.1rem;
   font-weight: 500;
-  border: 1px solid rgb(214, 214, 214);
+  border: 1px solid rgb(214 214 214);
   padding: 8px 55px;
   text-align: center;
   border-radius: 25px;
@@ -155,7 +155,7 @@ button {
   top: 35px;
   left: 35px;
   font-size: 1rem;
-  color: rgb(65, 63, 63);
+  color: rgb(65 63 63);
 }
 
 .footer-input-form span a {

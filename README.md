@@ -29,10 +29,10 @@ natural part of your development process.
   module
 - [Suggested Study](./suggested-study.md): Helpful links for this module, useful
   but not required.
-- [Deliverables](./deliverables): Projects to practice applying the learning
-  objectives in context
-- [Lesson Plans](./lesson-plans): A few ideas for running lessons around this
-  material.
+- [Deliverables](./deliverables/README.md): Projects to practice applying the
+  learning objectives in context
+- [Lesson Plans](./lesson-plans/README.md): A few ideas for running lessons
+  around this material.
 - [Study Tips](#study-tips)
 - [Setting Up](#setting-up)
 - [Code Quality Scripts](#code-quality-scripts)
@@ -96,7 +96,7 @@ develop websites written with HTML & CSS.
 Practice working together in a group to build small websites in incremental
 steps according to a plan. You will be given final code, a detailed plan to
 rebuild it, and will need to work as a group following the processes in
-[Planning and Collaborating](https://github.com/HackYourFutureBelgium/planning-and-collaborating).
+[Planning and Collaborating](https://github.com/DeNepo/planning-and-collaborating).
 
 - [ ] 🥚 **Project Definition and Scope**: As a group, you can agree on what you
       are trying to build, and can clearly describe the project using a README
@@ -305,7 +305,7 @@ project naming convention
 
 This script will
 [validate](https://webplatform.github.io/docs/guides/html_validation/) the HTML
-in this repsitory using
+in this repository using
 [html-validate](https://gitlab.com/html-validate/html-validate).
 
 </details>
